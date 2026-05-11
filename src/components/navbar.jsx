@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <header className="sticky top-0 z-50 shadow-md">
       <div className="bg-gradient-to-r from-gray-800 via-gray-900 to-gray-800 px-6 py-4 flex items-center justify-between">
-        {/* Logo */}
+
         <h1 className="text-white text-2xl font-extrabold flex items-center space-x-2 drop-shadow-lg">
           <FaPlane className="text-yellow-400 text-3xl" />
           <span>SkyJet Airlines</span>
